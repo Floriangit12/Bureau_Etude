@@ -1,0 +1,5 @@
+
+open a shell right clique mouse and open terminal 
+
+copy/past : sudo chmod u+x compilation_MacOs.sh
+after : sh compilation_MacOs.sh
