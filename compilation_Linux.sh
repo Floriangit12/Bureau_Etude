@@ -3,6 +3,7 @@
 java --version
 git clone https://github.com/Floriangit12/Bureau_Etude
 cd Bureau_Etude
+mkdir Compilation
 wget https://download2.gluonhq.com/openjfx/18.0.1/openjfx-18.0.1_linux-x64_bin-sdk.zip
 unzip openjfx-18.0.1_osx-x64_bin-sdk.zip
 rm openjfx-18.0.1_osx-x64_bin-sdk.zip
