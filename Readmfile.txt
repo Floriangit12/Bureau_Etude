@@ -6,3 +6,6 @@ after : sh compilation_MacOs.sh
 
 
 https://github.com/nicknochnack/YOLO-Drowsiness-Detection
+
+
+https://stackoverflow.com/questions/53843870/opencv-compiled-with-cuda-but-not-using-gpu
